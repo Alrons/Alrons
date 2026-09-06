@@ -13,7 +13,7 @@ I have commercial software development experience in C#/.NET and actively design
 * **Databases & Migrations:** PostgreSQL, Liquibase
 * **Message Brokers:** Apache Kafka, Kafka Streams
 * **Testing & DevOps:** JUnit 5, Testcontainers, WireMock, Docker, Docker Compose, GitHub Actions CI/CD
-* **Tools & Workflow:** Git, Swagger / OpenAPI, Claude Code, JetBrains IDEs
+* **Tools & Workflow:** Git, Swagger / OpenAPI, Claude Code, JetBrains IDEs, Unity
 
 ---
 
