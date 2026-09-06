@@ -22,7 +22,7 @@ Backend / Java Developer based in Yekaterinburg.<br>
 <img src="https://user-images.githubusercontent.com/73097560/115834477-db03d000-a47f-11eb-92d3-1b920aa95a30.gif" width="100%">
 
 <!-- Анимированный заголовок: Tech Stack -->
-<p align="left">
+<p align="center">
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=22&pause=1000&color=36BCF7&width=400&lines=%F0%9F%9B%A0%EF%B8%8F+TECH+STACK" alt="Tech Stack" />
 </p>
 
@@ -38,7 +38,7 @@ Backend / Java Developer based in Yekaterinburg.<br>
 <img src="https://user-images.githubusercontent.com/73097560/115834477-db03d000-a47f-11eb-92d3-1b920aa95a30.gif" width="100%">
 
 <!-- Анимированный заголовок: Key Projects -->
-<p align="left">
+<p align="center">
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=22&pause=1000&color=36BCF7&width=400&lines=%F0%9F%9A%80+KEY+PROJECTS" alt="Key Projects" />
 </p>
 
@@ -54,7 +54,7 @@ Backend / Java Developer based in Yekaterinburg.<br>
 <img src="https://user-images.githubusercontent.com/73097560/115834477-db03d000-a47f-11eb-92d3-1b920aa95a30.gif" width="100%">
 
 <!-- Анимированный заголовок: GitHub Stats -->
-<p align="left">
+<p align="center">
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=22&pause=1000&color=36BCF7&width=400&lines=%F0%9F%8F%86+GITHUB+STATS+%26+TROPHIES" alt="GitHub Stats" />
 </p>
 
