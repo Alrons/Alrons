@@ -53,11 +53,6 @@ Backend / Java Developer based in Yekaterinburg.<br>
 <!-- Анимированный разделитель -->
 <img src="https://user-images.githubusercontent.com/73097560/115834477-db03d000-a47f-11eb-92d3-1b920aa95a30.gif" width="100%">
 
-<!-- Анимированный заголовок: GitHub Stats -->
-<p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=22&pause=1000&color=36BCF7&width=400&lines=%F0%9F%8F%86+GITHUB+STATS+%26+TROPHIES" alt="GitHub Stats" />
-</p>
-
 <div align="center">
 
 
