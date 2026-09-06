@@ -60,16 +60,6 @@ Backend / Java Developer based in Yekaterinburg.<br>
 
 <div align="center">
 
-<!-- Анимированные трофеи -->
-<img src="https://github-profile-trophy.vercel.app/?username=Alrons&theme=tokyonight&column=4&margin-w=15" alt="GitHub Trophies" />
-
-<br><br>
-
-<!-- Карточки статистики -->
-<img src="https://github-readme-stats.vercel.app/api?username=Alrons&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0d1117" width="48%" alt="GitHub Stats" />
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Alrons&layout=compact&theme=tokyonight&hide_border=true&bg_color=0d1117&hide=html,css" width="48%" alt="Top Languages" />
-
-<br><br>
 
 <!-- Анимированная змейка активности -->
 <img src="https://raw.githubusercontent.com/platane/snk/output/github-contribution-grid-snake-dark.svg" alt="Snake animation" width="100%" />
